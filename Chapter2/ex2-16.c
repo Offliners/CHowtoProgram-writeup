@@ -9,7 +9,7 @@ int main(void)
 {
         int num1, num2;
 
-        printf("Please input two integers (space split) : ");
+        printf("Please input two integers (space-split) : ");
         scanf("%d %d", &num1, &num2);
 
         printf("Sum : %d\n", sum(num1, num2));
