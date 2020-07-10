@@ -13,6 +13,8 @@ int main(void)
                 printf("Max : %d\n", num1);
         else
                 printf("Max : %d\n", num2);
+        
+        return 0;
 }
 
 int compare(int a, int b)
