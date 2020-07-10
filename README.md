@@ -14,3 +14,4 @@ $ make
 
 ### Reference
 * C : How to Program 8-th (GLOBAL EDITION)
+![CHowtoProgram-8-th](https://github.com/Offliners/CHowtoProgram-writeup/blob/master/CHowtoProgram-8-th.jpg)
