@@ -2,12 +2,6 @@
 ### Chapter
 * [Chapter 2](Chapter2/Chapter2.md)
 
-### Usage
-```shell
-$ cd chapter
-$ make
-```
-
 ### Environment
 * Ubuntu 16.04
 * gcc 5.4.0
