@@ -1,6 +1,7 @@
 # C : How to Program writeup
 ### Chapter
 * [Chapter 2](Chapter2/Chapter2.md)
+* [Chapter 3](Chapter3/Chapter3.md)
 
 ### Environment
 * Ubuntu 16.04
