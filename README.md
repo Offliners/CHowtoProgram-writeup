@@ -3,6 +3,14 @@
 * [Chapter 2](Chapter2/Chapter2.md)
 * [Chapter 3](Chapter3/Chapter3.md)
 
+### Usage
+```shell
+$ cd Chapter          // cd to the chapter you want
+$ make                // compile all .c file
+$ ./program.out       // execute the file 
+$ make clean          // clean all .out file
+```
+
 ### Environment
 * Ubuntu 16.04
 * gcc 5.4.0
