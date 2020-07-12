@@ -20,7 +20,7 @@ int main(void)
                 printf("Sales : %.2lf\n", total / 1.09);
                 printf("County Sales Tax : %.2lf\n", total / 1.09 * 0.05);
                 printf("State Sales Tax : %.2lf\n", total / 1.09 * 0.04);
-                printf("Total Sales Tax : %.2lf\n", total / 1.09 * 0.09);
+                printf("Total Sales Tax : %.2lf\n\n", total / 1.09 * 0.09);
         }
 
         return 0;
