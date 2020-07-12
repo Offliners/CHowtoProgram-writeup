@@ -6,9 +6,9 @@
 ### Usage
 ```shell
 $ cd Chapter          // cd to the chapter you want
-$ make                // compile all .c file
+$ make                // compile all .c files
 $ ./program.out       // execute the file 
-$ make clean          // clean all .out file
+$ make clean          // clean all .out files
 ```
 
 ### Environment
