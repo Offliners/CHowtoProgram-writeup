@@ -18,5 +18,5 @@ $ make clean          // clean all .out files
 
 ### Reference
 * C : How to Program 8-th (GLOBAL EDITION)
-
+* ISBN : `978-986-463-940-3`
 ![CHowtoProgram-8-th](https://github.com/Offliners/CHowtoProgram-writeup/blob/master/CHowtoProgram-8-th.jpg)
