@@ -15,6 +15,7 @@ $ make clean          // clean all .out files
 ### Environment
 * Ubuntu 16.04
 * gcc 5.4.0
+* 
 
 ### Reference
 * C : How to Program 8-th (GLOBAL EDITION)
