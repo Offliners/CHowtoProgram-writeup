@@ -23,7 +23,6 @@
 * [ex4-32 修改菱形列印程式](ex4-32.c)
 * [ex4-33 十進位的羅馬數字等值表](ex4-33.c)
 * [ex4-38 "The Twelve Days of Christmas"之歌](ex4-38.c)
-* [ex4-39 貨幣數量浮點數的侷限性](ex4-39.c)
 
 ### Advance
 * [ex4-40 世界人口成長率](ex4-40.c)
