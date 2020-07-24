@@ -1,4 +1,5 @@
 # Chapter 4
+* [Makefile](Makefile)
 ### Exercise
 * [ex4-9 整數的和和平均數](ex4-9.c)
 * [ex4-10 將攝氏溫度轉換為華氏溫度](ex4-10.c)
