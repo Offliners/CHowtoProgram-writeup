@@ -1,4 +1,5 @@
 # Chapter 2
+* [Makefile](Makefile)
 ### Exercise
 * [ex2-16 算數計算](ex2-16.c)
 * [ex2-17 最終速度](ex2-17.c)
