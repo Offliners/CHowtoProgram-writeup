@@ -16,7 +16,7 @@ int main(void)
                 if((size % 2 != 0) && (size > 0) && (size <= 19))
                         break;
                 else
-                        printf("Error input! The size must be between 1 to 19 and oven!\n");
+                        printf("Error input! The size must be between 1 to 19 and odd!\n");
         }
 
         row = size / 2;
