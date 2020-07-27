@@ -20,17 +20,15 @@ int isPerfect(int n)
         int count = 0;
         int sum = 0;
 
-        for(int i = 1; i < n; i++)
+        for(int i = 1; i <= n/2; i++)
         {
                 if(n % i == 0)
                 {
                         divisor[count] = i;
+                        sum += i;
                         count++;
-                }
+                }                                                                                                                                                                                           
         }
-
-        for(int i = 0; i < count; i++)
-                sum += divisor[i];                                                                                                                                                                          
 
         if(sum == n)
         {
@@ -43,3 +41,4 @@ int isPerfect(int n)
         else
                 return 0;
 }
+
