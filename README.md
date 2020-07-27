@@ -5,6 +5,7 @@
 * [Chapter 4](Chapter4/Chapter4.md)
 * [Chapter 5](Chapter5/Chapter5.md)
 * [Chapter 6]
+* [Chapter 7]
 
 ### Usage
 ```shell
